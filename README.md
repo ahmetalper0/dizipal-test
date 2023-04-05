@@ -1,1 +1,3 @@
-{'success': True, 'url': 'https://dizipal566.com', 'last_updated': '13:27 05.04.2023'}
+# Dizipal
+
+url --> https://dizipal566.com
